@@ -1,0 +1,8 @@
+{
+  "namedDatasets" : ["mutual-aid"],
+  "namedDatasetsVerbose" : ["Mutual-Aid"],
+  "filterableFields" : [{ "field": "country", "label": "Countries" }],
+  "showDatasetsPanel" : true,
+  "htmlTitle" : "Linked Data Version of Mutual Aid Wiki",
+  "defaultLatLng": ["50.84999", "4.39434" ]
+}
