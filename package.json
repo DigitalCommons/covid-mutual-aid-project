@@ -4,7 +4,7 @@
   "description": "The Linked Data Version of the Mutual Aid Wiki",
   "main": "index.js",
   "config": {
-    "deploy_to": "dev-0:/var/www/vhosts/mutual-aid-project/",
+    "deploy_to": "",
     "deploy_user": "www-data",
     "deploy_group": "www-data"
   },
