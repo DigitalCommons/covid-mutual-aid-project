@@ -1,5 +1,5 @@
 {
-  "name": "mutual-aid-project",
+  "name": "covid-mutual-aid-project",
   "version": "0.1.0",
   "description": "The Linked Data Version of the Mutual Aid Wiki",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "author": "Solidarity Economy Association",
   "license": "UNLICENSED",
-  "repository": "github:SolidarityEconomyAssociation/mutual-aid-project",
+  "repository": "github:SolidarityEconomyAssociation/covid-mutual-aid-project",
   "dependencies": {
     "sea-map": "github:SolidarityEconomyAssociation/sea-map#semver:^0.1.50"
   },

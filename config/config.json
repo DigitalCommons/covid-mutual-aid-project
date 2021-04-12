@@ -1,6 +1,6 @@
 {
-  "namedDatasets" : ["mutual-aid"],
-  "namedDatasetsVerbose" : ["Mutual-Aid"],
+  "namedDatasets" : ["covid-mutual-aid"],
+  "namedDatasetsVerbose" : ["Covid Mutual Aid"],
   "filterableFields" : [{ "field": "country", "label": "Countries" }],
   "showDatasetsPanel" : true,
   "htmlTitle" : "Linked Data Version of Mutual Aid Wiki",
